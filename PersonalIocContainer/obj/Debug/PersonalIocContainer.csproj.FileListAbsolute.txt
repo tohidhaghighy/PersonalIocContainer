@@ -1,0 +1,6 @@
+C:\Users\tohid\Documents\Visual Studio 2017\Projects\PersonalIocContainer\PersonalIocContainer\obj\Debug\PersonalIocContainer.csprojResolveAssemblyReference.cache
+C:\Users\tohid\Documents\Visual Studio 2017\Projects\PersonalIocContainer\PersonalIocContainer\bin\Debug\PersonalIocContainer.exe.config
+C:\Users\tohid\Documents\Visual Studio 2017\Projects\PersonalIocContainer\PersonalIocContainer\bin\Debug\PersonalIocContainer.exe
+C:\Users\tohid\Documents\Visual Studio 2017\Projects\PersonalIocContainer\PersonalIocContainer\bin\Debug\PersonalIocContainer.pdb
+C:\Users\tohid\Documents\Visual Studio 2017\Projects\PersonalIocContainer\PersonalIocContainer\obj\Debug\PersonalIocContainer.exe
+C:\Users\tohid\Documents\Visual Studio 2017\Projects\PersonalIocContainer\PersonalIocContainer\obj\Debug\PersonalIocContainer.pdb
